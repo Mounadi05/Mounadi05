@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![42 Profile Card](https://1337-readme-hxx2.vercel.app/api/profile?cursus=42cursus&dark=true&login=amounadi)
 
-![leetcode card](https://stats-cards-4b1n8mmbp-hxx2.vercel.app/api/leetcode/?username=Mounadi1337)
+![leetcode card](https://stats-cards-4b1n8mmbp-hxx2.vercel.app/api/leetcode/?username=Mounadi05)
